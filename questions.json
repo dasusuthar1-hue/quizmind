@@ -1,0 +1,20 @@
+{
+  "questions": [
+    {
+      "id": "h1",
+      "subject": "raj_history",
+      "question": "Rajasthan mein 1857 ki kranti ki shuruat kahan se hui thi?",
+      "options": [
+        "Nasirabad",
+        "Ajmer",
+        "Erinpura",
+        "Beawar"
+      ],
+      "answer": "Nasirabad",
+      "detail": "Nasirabad chhavani se 28 May 1857 ko kranti ki shuruat hui thi.",
+      "source": "seed",
+      "createdAt": "2026-09-30T00:00:00.000Z"
+    }
+  ],
+  "pending": []
+}
